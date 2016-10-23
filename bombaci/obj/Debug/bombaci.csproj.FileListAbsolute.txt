@@ -1,0 +1,6 @@
+C:\Users\musta\Documents\SharpDevelop Projects\bombaci\bombaci\obj\Debug\bombaci.csprojResolveAssemblyReference.cache
+C:\Users\musta\Documents\SharpDevelop Projects\bombaci\bombaci\bin\Debug\bombaci.exe.config
+C:\Users\musta\Documents\SharpDevelop Projects\bombaci\bombaci\bin\Debug\bombaci.exe
+C:\Users\musta\Documents\SharpDevelop Projects\bombaci\bombaci\bin\Debug\bombaci.pdb
+C:\Users\musta\Documents\SharpDevelop Projects\bombaci\bombaci\obj\Debug\bombaci.exe
+C:\Users\musta\Documents\SharpDevelop Projects\bombaci\bombaci\obj\Debug\bombaci.pdb
